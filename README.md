@@ -11,3 +11,5 @@ The project is implemented in Python, using the Keras and TensorFlow libraries f
 The repository includes the source code for the system, along with the necessary datasets, trained models, and documentation. The project is licensed under the MIT License.
 
 Keywords: machine learning, neural networks, image processing, handwriting recognition, Devanagari character set, Python, Keras, TensorFlow, OpenCV
+
+https://www.kaggle.com/code/lohith97/deep-devanagari-with-convolutions-keras/
